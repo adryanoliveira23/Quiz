@@ -18,10 +18,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.adryanoliveira.quizdidatico"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b6b1af8e-3b5f-48e2-b7fb-aa864ab14733"
+      }
+    },
+    "owner": "adryanoliveira"
   }
 }
